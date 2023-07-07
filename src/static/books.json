@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "title": "Magical Mystery",
+        "description": "Follow the adventurous journey of a young wizard in this magical story.",
+        "author": "Author 1",
+        "release_date": "2023-01-01",
+        "age_range": "5-7",
+        "category": "magic"
+    },
+    {
+        "id": "2",
+        "title": "Space Explorers",
+        "description": "Join a group of astronauts as they explore the cosmos and make unexpected discoveries.",
+        "author": "Author 2",
+        "release_date": "2023-01-02",
+        "age_range": "6-8",
+        "category": "apace"
+    },
+    {
+        "id": "3",
+        "title": "Nature's Keepers",
+        "description": "A group of children takes it upon themselves to protect a beautiful forest and its many creatures.",
+        "author": "Author 3",
+        "release_date": "2023-01-03",
+        "age_range": "7-9",
+        "category": "nature"
+    },
+    {
+        "id": "4",
+        "title": "The Animal Whisperer",
+        "description": "A young girl has the ability to talk to animals. Adventure ensues when she discovers a secret animal kingdom.",
+        "author": "Author 4",
+        "release_date": "2023-01-04",
+        "age_range": "8-10",
+        "category": "animals"
+    },
+    {
+        "id": "5",
+        "title": "The Enchanted Forest",
+        "description": "A magical forest full of mystical creatures awaits discovery.",
+        "author": "Author 5",
+        "release_date": "2023-01-05",
+        "age_range": "9-11",
+        "category": "magic"
+    }
+]
